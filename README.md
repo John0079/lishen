@@ -6,3 +6,5 @@
     因此，mysql的配置应该写在config/database.php中
     
   
+# 项目学到的新知识
+    有错误，就看log文件
